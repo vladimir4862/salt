@@ -1,6 +1,7 @@
 https_user: 
 repository: 
-greate_directory_git: True
+# NOTE greate_directory_git Delete all files in the directory receiver
+greate_directory_git: False
 git_clone_directory: /srv/staff/chat-ops
 submodules: True
 
