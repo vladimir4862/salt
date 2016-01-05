@@ -1,0 +1,13 @@
+
+salt/pillar in the folder contains files that have the attributes
+
+for change 
+docker-compose version use docker.sls 
+
+Or git_cmd.sls 
+
+https_user: - user for clone repository 
+repository: source  repository
+greate_directory_git: Establish whether or not the destination directory
+git_clone_directory:  - Destination directory
+submodules: - Clone with submodlues
