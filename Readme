@@ -9,6 +9,6 @@ Or git_cmd.sls
 https_user: - user for clone repository 
 https_pass:
 repository: source  repository
-greate_directory_git: Establish whether or not the destination directory
+greate_directory_git: create whether or not the destination directory
 git_clone_directory:  - Destination directory
 
